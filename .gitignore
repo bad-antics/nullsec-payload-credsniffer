@@ -1,5 +1,7 @@
+*.pyc
+__pycache__/
 *.log
-*.pcap
-*.cap
-*.csv
-.DS_Store
+.env
+venv/
+dist/
+build/
